@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thegurizationbatatat.aternos.me",
+    "ip": "thegurizationbatatat.aternos.me:41967",
     "port": 41967,
     "version": "",
     "try-creative": false
