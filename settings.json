@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "thegurizationdobatatation",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "thegurizationbatatat.aternos.me",
     "port": 41967,
-    "version": "1.21.11",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
